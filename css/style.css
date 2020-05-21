@@ -10,7 +10,7 @@
 /*configurando o cabeçalho do site*/
 
 header {
-    background-color: #fff;
+    background-color: gray;
     width: 100%;
     position: absolute;
     top: 0px;
@@ -24,7 +24,7 @@ header {
 }
 
 header img {
-    width: 200px;
+    width: 250px;
 }
 
 header nav {
@@ -37,6 +37,8 @@ header li a {
 
 header li {
     margin: 0px 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
 }
 
 header li:first-child {
@@ -82,7 +84,7 @@ a:hover {
     align-items: center;
     flex-direction: column;
     text-align: center;
-    margin-top: 245px;
+    margin-top: 240px;
     
 }
 
